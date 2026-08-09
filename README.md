@@ -1,6 +1,6 @@
 # LockBox
 
-Your personal digital safe. Protect photos, documents, videos — anything private — with a password. No technical knowledge needed. Just lock your files and only you can open them.
+Your personal digital safe. Protect photos, documents, videos — anything private — with a password. Just lock your files and only you can open them.
 
 ## Requirements
 
